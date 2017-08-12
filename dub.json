@@ -1,0 +1,14 @@
+{
+	"name": "mpower-d",
+	"authors": [
+		"Lawrence Aberba"
+	],
+	"dependencies": {
+		"requests": "~>0.4.1",
+		"std_data_json": "~>0.18.2",
+		"jsonserialized": "~>0.2.1"
+	},
+	"description": "MPower API for D",
+	"copyright": "Copyright © 2017, Lawrence Aberba",
+	"license": "Boast"
+}
