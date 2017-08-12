@@ -1,10 +1,10 @@
-# hubtel-d (incomplete)
+# Mpower Payments API (incomplete)
 
 > ## Alert!
 > This API was not fully implemented to support all Mpower API functionality 
 > since the Mpower Payments platform was discontinued during development. I recommend you check out [Hubtels's unofficial D API](https://github.com/aberba/hubtel)
 
-This was an unofficial Mpower Payments API for [D](https://dlang.org).
+This was an unofficial Mpower Payments API written in [D](https://dlang.org).
 
 ## Usage
 Subtitute the information used in the example below with your own account information.
